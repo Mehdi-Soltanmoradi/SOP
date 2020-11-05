@@ -32,8 +32,8 @@ body{
 }/*class_style*/
 .center span:nth-child(2){
     display: block;
-    font-size: 22px;
-    margin: 3% 3% 3% 0;
+    font-size: 24px;
+    margin: 3% 4% 5% 0;
 }/*class_style*/
 <!-- -->
 @font-face {
