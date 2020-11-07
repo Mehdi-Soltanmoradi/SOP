@@ -20,7 +20,7 @@ body{
 }/*class*/
 .center span{
     display: block;
-    font-size: 22px;
+    font-size: 19px;
     margin: 0 4% 0 auto;
 
 }/*class_style*/
@@ -32,8 +32,8 @@ body{
 }/*class_style*/
 .center span:nth-child(2){
     display: block;
-    font-size: 24px;
-    margin: 3% 4% 5% 0;
+    font-size: 20px;
+    margin: 3% 4% 4% 0;
 }/*class_style*/
 <!-- -->
 @font-face {
